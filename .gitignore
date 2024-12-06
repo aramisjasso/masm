@@ -1,0 +1,5 @@
+*.obj
+*.exe
+!masm.exe
+!golink.exe
+!lib.exe
